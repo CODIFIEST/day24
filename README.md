@@ -1,3 +1,18 @@
+### Day25:
+## VALIDATION!
+x-Watch the video, then do the same thing for your Videogames app from Day24.
+x-Validate input, return errors on the backend.
+Catch them on the frontend and make your form user friendly!
+
+Defien your own validation rules.
+Some examples:
+x- is your input type the type you expect it to be? ie: can i pass an array instead of a string as .req.body.name and pass your validation, breaking shit?
+x- length checks
+- bad word filters
+*********ETH ADDRESS CHECKER
+if (!ethers.utils.isAddress(enteredAddress)){}
+*********************** #TODO put this on NFT viewer 
+
 ### Day24:
 Combining express and Svelte (SERVER and CLIENT), as well as "cheating" with a database by using a file!
 
